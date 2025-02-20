@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.b6e9522a.css",
+    "main.js": "/MyPortfolio/static/js/main.505933a2.js",
+    "static/media/Rohith_M_Resume.pdf": "/MyPortfolio/static/media/Rohith_M_Resume.ad5963b4fee64f4e2ab4.pdf",
+    "static/media/rohith.jpg": "/MyPortfolio/static/media/rohith.908fa2c6ee0c0581bba5.jpg",
+    "static/media/logo.png": "/MyPortfolio/static/media/logo.e2c3f31c58a9737f28bb.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.b6e9522a.css.map": "/MyPortfolio/static/css/main.b6e9522a.css.map",
+    "main.505933a2.js.map": "/MyPortfolio/static/js/main.505933a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e9522a.css",
+    "static/js/main.505933a2.js"
+  ]
+}
