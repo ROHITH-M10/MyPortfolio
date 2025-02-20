@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "image": "/projects/1.png",
+        "title": "E-commerce Competitor Strategy Dashboard",
+        "description": "Developed a real-time e-commerce competitor analysis platform using Python and Streamlit, enabling businesses to track pricing strategies, discounts, and customer sentiment. Integrated web scraping for data collection, ARIMA for discount forecasting, and Hugging Face transformers for sentiment analysis. Leveraged LLaMA to generate strategic recommendations and implemented Slack API for real-time updates and collaboration.",
+        "link1": {"linkName":"GitHub","link": "https://github.com/ROHITH-M10/e-commerce-competitor-analysis"},
+        "link2": {"linkName":"Link","link": "https://e-commerce-competitor-analysis-app.streamlit.app/"},
+        "tech": ["Python", "Streamlit","BeautifulSoup","Selenuim","ARIMA","Hugging Face","LLaMA","Slack API"]
+    },
+    {
+        "id": 2,
+        "image": "/projects/2.png",
+        "title": "Invoice Extraction with GenAI",
+        "description": "Designed and developed an AI-powered invoice extraction system using Generative AI to automate data entry and minimize manual effort. The system allows users to upload invoices, extracting key details such as invoice number, date, client name, and total amount with high accuracy. Improved efficiency in invoice processing by leveraging AI-driven text recognition and data extraction techniques.",
+        "link1": {"linkName":"GitHub","link":"https://github.com/ROHITH-M10/aws-invoice-generation"},
+        "link2": {"linkName":"Certificate","link":"https://drive.google.com/file/d/1x6ghEauITMCGLDnRSMdchj0O25nmAU7w/view"},
+        "tech": ["React","CSS", "GenAI", "FastAPI", "PostgreSQL"]
+    },
+
+    {
+        "id": 3,
+        "image": "/projects/3.png",
+        "title": "YouTube Thumbnail Designer",
+        "description": "Designed a diverse collection of 40+ eye-catching thumbnails using Canva, demonstrating creativity, consistency, and a strong commitment to high-quality visual design.",
+        "link1":{"linkName":"Work","link":"https://drive.google.com/drive/folders/1hY7xTDSlkxBUiBi0hdlTh0gx0Q6zB-On?usp=drive_link"},
+        "link2":{"linkName":"Certificate","link":"https://drive.google.com/file/d/1A8o3aNeoj4V9Jqra10kW7bRwmWG5IHsL/view?usp=drive_link"},
+        "tech": ["Canva"]
+    },
+
+    {
+        "id": "4",
+        "image": "/projects/4.png",
+        "title": "Post and Comment App",
+        "description": "Postgram is a full-stack web application that enables users to create posts, view posts, add comments, and view comments with custom formatting options like bold, italics, and hyperlinks. Built with React for the frontend and Flask for the backend, it uses SQLite for efficient data storage. The application ensures smooth user interaction with a clean UI and dark theme, demonstrating seamless API integration, real-time data handling, and responsive design.",
+        "link1":{"linkName":"GitHub","link":"Post and Comment App"},
+        "link2":{"linkName":"","link":""},
+        "tech": ["React", "Flask", "SQLite","REST API","CSS"]
+    },
+
+    {
+        "id": "5",
+        "image": "/projects/5.png",
+        "title": "Spelling Checker",
+        "description":"A web-based app that validates word spelling and provides auto-complete suggestions using a Trie data structure. Built with React and Flask, it efficiently processes words, tracks common misspellings, and stores data in SQLite for analysis. A custom hashing mechanism optimizes lookups, while a REST API ensures seamless communication. The interactive UI includes data visualization using Google Charts to display spelling error trends.",        "link1":{"linkName":"GitHub","link":"https://github.com/ROHITH-M10/Spelling-Checker-and-Auto-Complete"},
+        "link2":{"linkName":"","link":""},
+        "tech": ["Python", "Trie", "Hashing", "SQLite", "React", "Flask", "REST API", "Google Charts", "CSS"]
+    },
+    {
+        "id": "6",
+        "image": "/projects/6.png",
+        "title": "Smart Waste Management System",
+        "description": "An IoT-based system for efficient waste collection using ESP32 and ultrasonic sensors to monitor bin levels in real time. LoRa and MQTT enable cloud data transmission, stored in InfluxDB for analysis. Machine learning models in Amazon SageMaker and Google Colab optimize collection schedules, while a user-friendly interface displays real-time bin statuses and routes.",
+        "link1":{"linkName":"GitHub","link":"https://github.com/ROHITH-M10/IOT-Smart-Waste-Management-System"},
+        "link2":{"linkName":"","link":""},
+        "tech": ["ESP32", "Ultrasonic Sensors", "LoRa", "MQTT", "HiveMQ Cloud", "InfluxDB", "SageMaker", "ML"]
+    }
+]
+

@@ -1,0 +1,57 @@
+.education-card-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+.education-card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: var(--main-color);
+    border-radius: 5px;
+    padding: 20px 15px;
+    box-shadow: 0 0 20px 10px rgba(0, 255, 255, 0.055);
+}
+.education-card:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    scale: 1.0001;
+    transition: all 0.5s;
+}
+
+.degree{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    flex: 1;
+    gap: 10px;
+}
+.institute{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--fourth-color);
+}
+.course{
+    font-size: 1rem;
+    color: var(--fourth-color);
+}
+.numbers{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 10px;
+}
+.grade{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--fourth-color);
+}
+.year{
+    font-size: 1rem;
+    color: var(--fourth-color);
+}

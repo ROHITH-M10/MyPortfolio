@@ -1,0 +1,20 @@
+[
+    {
+    "institute": "Amrita School of Engineering",
+    "degree": "B.Tech in Computer Science and Engineering",
+    "year": "2021-2025",
+    "grade": "8.41/10"
+    },
+    {
+    "institute": " Bharatiya Vidya Bhavan",
+    "degree": "Higher Secondary",
+    "year": "2019-2021",
+    "grade": "95.4%"
+    },
+    {
+        "institute": " Bharatiya Vidya Bhavan",
+    "degree": "Secondary School",
+    "year": "2009-2019",
+    "grade": "95.4%"
+    }
+]

@@ -1,0 +1,38 @@
+.projects{
+    padding-top: 10vh;
+    min-height: 100vh;
+    height: auto;
+    padding-bottom:10rem;
+    background-color: var(--main-color);
+}
+.projects-heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1rem;
+    color: var(--fourth-color);
+    text-transform: uppercase;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+}
+.projects-carousel{
+    width: 80%;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 0px 20px;
+    z-index: 0;
+    box-shadow: 0px 0px 1000px 1px rgba(0, 255, 255, 0.105);
+}
+
+
+
+@media screen and (max-width: 768px){
+    .projects-container{
+        width: 100%;
+    }
+    .projects-carousel{
+        width: 100%;
+    }
+    
+}
