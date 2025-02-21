@@ -32,7 +32,31 @@
     {
         "id":6,
         "name":"Flask",
-        "image":"skills/falsk.svg"
+        "image":"skills/flask.svg"
+    }
+    ,
+    {
+        "id":7,
+        "name":"Node.js",
+        "image":"skills/node.svg"
+    }
+    ,
+    {
+        "id":8,
+        "name":"Express.js",
+        "image":"skills/express.svg"
+    }
+    ,
+    {
+        "id":9,
+        "name":"PostgreSQL",
+        "image":"skills/postgresql.svg"
+    }
+    ,
+    {
+        "id":10,
+        "name":"SQLite",
+        "image":"skills/sqlite.svg"
     }
 ]
 
