@@ -55,36 +55,42 @@
     ,
     {
         "id":10,
+        "name":"SQLite",
+        "image":"skills/sqlite.svg"
+    }
+    ,
+    {
+        "id":11,
         "name":"Python",
         "image":"skills/python.svg"
     }
     ,
     {
-        "id":11,
+        "id":12,
         "name":"Java",
         "image":"skills/java.svg"
     }
     ,
     {
-        "id":12,
+        "id":13,
         "name":"C++",
         "image":"skills/cpp.svg"
     }
     ,
     {
-        "id":13,
+        "id":14,
         "name":"C",
         "image":"skills/c.svg"
     }
     ,
     {
-        "id":14,
+        "id":15,
         "name":"Selenium",
         "image":"skills/selenium.svg"
     }
     ,
     {
-        "id":15,
+        "id":16,
         "name":"Beautifulsoup",
         "image":"skills/beautifulsoup.svg"
     }
