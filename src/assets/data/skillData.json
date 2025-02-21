@@ -8,14 +8,31 @@
 
     {
         "id": 2,
-        "name":"HTML",
+        "name":"CSS",
         "image":"skills/css.svg"
     }
     ,    
     {
         "id": 3,
-        "name":"HTML",
+        "name":"JavaScript",    
         "image":"skills/javascript.svg"
+    },
+    {
+        "id":4
+        ,"name":"React",
+        "image":"skills/react.svg"
+    }
+    ,
+    {
+        "id":5,
+        "name":"Bootstrap",
+        "image":"skills/bootstrap.svg"
+    }
+    ,
+    {
+        "id":6,
+        "name":"Flask",
+        "image":"skills/Falsk.svg"
     }
 ]
 
