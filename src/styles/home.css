@@ -54,7 +54,7 @@
 .interest div{
     padding: 5px 10px;
     border-radius: 10px;
-    margin-right: 0.2rem;
+    margin: 5px;
     border: solid 2px var(--fifth-color);
 }
 

@@ -8,6 +8,18 @@ function About() {
             <div className="about-title">
                 About Me
             </div>
+            <div className="about-info">
+            Welcome to my digital space!
+            <br />
+            I'm Rohith, a passionate 4th-year Computer Science Engineering student at Amrita School of Computing, Coimbatore. 
+            I love working with technology and have a keen interest in Web Development,AI, Machine Learning, and Designing. 
+            I am always eager to learn new things and solve problems.
+            <br />
+            In my free time, I enjoy photography, designing, philately, and playing football.
+
+            <br /><br />
+            A snapshot of the technologies and skills I’ve worked with
+            </div>
 
             <div className="my-skills">
                 {
