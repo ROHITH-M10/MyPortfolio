@@ -12,7 +12,8 @@ function Footer() {
         <div className="footer-content">
             <div className="footer-links">
                 <AnchorLink href="#home">Home</AnchorLink>
-                <AnchorLink href="#about">My Journey</AnchorLink>
+                <AnchorLink href="#about">About</AnchorLink>                
+                <AnchorLink href="#about">Journey</AnchorLink>
                 <AnchorLink href="#projects">Projects</AnchorLink>
                 <AnchorLink href="#contact">Contact</AnchorLink>
             </div>

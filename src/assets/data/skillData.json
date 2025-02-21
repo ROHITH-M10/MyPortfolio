@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name":"HTML",
+        "image":"skills/html.svg"
+    }
+    ,
+
+    {
+        "id": 2,
+        "name":"HTML",
+        "image":"skills/css.svg"
+    }
+    ,    
+    {
+        "id": 3,
+        "name":"HTML",
+        "image":"skills/javascript.svg"
+    }
+]
+

@@ -26,7 +26,8 @@ function Navbar() {
         <div className="nav-links">
             <ul>
                 <li><AnchorLink href="#home">Home</AnchorLink></li>
-                <li><AnchorLink href="#journey">My Journey</AnchorLink></li>
+                <li><AnchorLink href="#about">About</AnchorLink></li>
+                <li><AnchorLink href="#journey">Journey</AnchorLink></li>
                 <li><AnchorLink href="#projects">Projects</AnchorLink></li>
                 <li><AnchorLink href="#contact">Contact</AnchorLink></li>
             </ul>
@@ -41,7 +42,8 @@ function Navbar() {
         <div className={`nav-links ${DropDownStyle}`}>
             <ul>
                 <li><AnchorLink href="#home" onClick={handleNavbar}>Home</AnchorLink></li>
-                <li><AnchorLink href="#journey" onClick={handleNavbar}>My Journey</AnchorLink></li>
+                <li><AnchorLink href="#about" onClick={handleNavbar}>About</AnchorLink></li>
+                <li><AnchorLink href="#journey" onClick={handleNavbar}>Journey</AnchorLink></li>
                 <li><AnchorLink href="#projects" onClick={handleNavbar}>Projects</AnchorLink></li>
                 <li><AnchorLink href="#contact" onClick={handleNavbar}>Contact</AnchorLink></li>
             </ul>

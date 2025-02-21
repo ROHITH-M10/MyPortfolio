@@ -1,6 +1,7 @@
 import './styles/app.css';
 import Navbar from './components/navbar';
 import Home from './components/home';
+import About from './components/about';
 import Journey from './components/journey';
 import Projects from './components/projects';
 import Contact from './components/contact';
@@ -12,6 +13,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <Home/>
+      <About/>
       <Journey/>
       <Projects />
       <Contact />
