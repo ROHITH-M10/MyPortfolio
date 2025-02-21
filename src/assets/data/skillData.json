@@ -55,8 +55,27 @@
     ,
     {
         "id":10,
-        "name":"SQLite",
-        "image":"skills/sqlite.svg"
+        "name":"Python",
+        "image":"skills/python.svg"
     }
+    ,
+    {
+        "id":10,
+        "name":"Java",
+        "image":"skills/java.svg"
+    }
+    ,
+    {
+        "id":10,
+        "name":"C++",
+        "image":"skills/cpp.svg"
+    }
+    ,
+    {
+        "id":10,
+        "name":"C",
+        "image":"skills/c.svg"
+    }
+    
 ]
 
