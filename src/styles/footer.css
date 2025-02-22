@@ -1,6 +1,6 @@
 .footer{
     height: auto;
-    background-image: linear-gradient(var(--main-color), rgb(0, 40, 40));
+    background-image: linear-gradient(var(--main-color), rgb(0, 27, 27));
     color: var(--fourth-color);
     padding: 1rem 0;
 }

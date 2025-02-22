@@ -70,7 +70,6 @@
     margin-top: 50px;
     gap: 30px;
     font-size: 1rem;
-    font-weight: bold;
 
 }
 
@@ -105,7 +104,7 @@
 
 @media screen and (max-width: 765px){
     .home{
-        padding: 15vh 20px;
+        padding: 20vh 20px;
 
     }
     .avatar{

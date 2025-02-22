@@ -6,7 +6,7 @@ import React from 'react';
 
 function ExperienceCard(props) {
   return (
-    <div className="experience-card-container">
+    <div className="experience-card-container" data-aos="fade-down">
             <div className="experience-card">
             <div className="company">
                 <div className="company-name">

@@ -3,7 +3,7 @@ import React from 'react';
 
 function ProjectsCard(props) {
   return (
-    <div className="projects-card" >
+    <div className="projects-card" data-aos="fade-down">
         <div className="projects-card-image">
         <img src={props.image} alt="project" />
         </div>

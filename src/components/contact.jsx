@@ -36,14 +36,14 @@ function Contact() {
             Contact Me
         </div>
         <div className="text-content">
-            <div className="mail-text">
+            <div className="mail-text" data-aos="fade-up">
                 rohithmemail@gmail.com
             </div>
-            <div className="text">
+            <div className="text" data-aos="fade-up">
                 Feel free to reach out to me for any queries.
             </div>
         </div>
-        <form onSubmit={handleFormSubmit} className="contact-form">
+        <form onSubmit={handleFormSubmit} className="contact-form" data-aos="fade-up">
             <div className="user-info">
                 <div className="form-group form-name">
                     <input type="text" id="name" name="name" placeholder="Name" required/>

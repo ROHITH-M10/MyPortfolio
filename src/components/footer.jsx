@@ -17,9 +17,9 @@ function Footer() {
                 <AnchorLink href="#projects">Projects</AnchorLink>
                 <AnchorLink href="#contact">Contact</AnchorLink>
             </div>
-            <div className="footer-logo">
+            {/* <div className="footer-logo">
                 <img src={Logo} alt="logo" />
-            </div>
+            </div> */}
             <div className="footer-text">
             Copyright © {year} | All right reserved by Rohith M
             </div>

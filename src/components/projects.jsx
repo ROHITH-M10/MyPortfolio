@@ -6,7 +6,7 @@ import '../styles/projects.css';
 
 function Projects() {
   return (
-    <div className="projects" id="projects">
+    <div className="projects" id="projects" >
       <div className="projects-heading">Projects</div>
       <Carousel arrows infinite={false} className="projects-carousel">
         {ProjectsData.map((project) => (

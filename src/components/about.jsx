@@ -4,11 +4,11 @@ import '../styles/about.css';
 
 function About() {
     return (
-        <div id ="about" className="about-container">
+        <div id ="about"  className="about-container">
             <div className="about-title">
                 About Me
             </div>
-            <div className="about-info">
+            <div className="about-info" data-aos="fade-right">
             Welcome to my digital space!
             <br />
             I'm Rohith, a passionate 4th-year Computer Science Engineering student at Amrita School of Computing, Coimbatore. 
@@ -21,11 +21,11 @@ function About() {
             A snapshot of the technologies and skills I’ve worked with
             </div>
 
-            <div className="my-skills">
+            <div className="my-skills" >
                 {
                     Skills.map((skill,index)=>{
                         return(
-                            <div className="skill" key={index}>
+                            <div className="skill" key={index} data-aos={index%2===0?"fade-top":"fade-bottom"}>
                                 <div className="skill-image">
                                     <img src={skill.image} alt={skill.name}/>
                                 </div>
