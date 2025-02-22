@@ -94,7 +94,23 @@
         "name":"Beautifulsoup",
         "image":"skills/beautifulsoup.svg"
     }
-
-    
+    ,
+    {
+        "id":17,
+        "name":"Haskell",
+        "image":"skills/haskell.svg"
+    }
+    ,
+    {
+        "id":18,
+        "name":"Hugging Face",
+        "image":"skills/huggingface.svg"
+    }
+    ,
+    {
+        "id":19,
+        "name":"Groq",
+        "image":"skills/groq.svg"
+    }
 ]
 
