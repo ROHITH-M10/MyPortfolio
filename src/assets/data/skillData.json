@@ -112,5 +112,48 @@
         "name":"Groq",
         "image":"skills/groq.svg"
     }
+    ,
+    {
+        "id":20,
+        "name":"Sklern",
+        "image":"skills/sklearn.svg"
+    }
+    ,
+    {
+        "id":21,
+        "name":"Pandas",
+        "image":"skills/pandas.svg"
+    }
+    ,
+    {
+        "id":22,
+        "name":"Numpy",
+        "image":"skills/numpy.svg"
+    }
+    ,
+    {
+        "id":23,
+        "name":"Tensorflow",
+        "image":"skills/tensorflow.svg"
+    }
+    ,
+    {
+        "id":24,
+        "name":"Git",
+        "image":"skills/git.svg"
+    }
+    ,
+    {
+        "id":25,
+        "name":"Github",
+        "image":"skills/github.svg"
+    }
+    ,
+    {
+        "id":26,
+        "name":"Postman",
+        "image":"skills/postman.svg"
+    }
+    
 ]
 
