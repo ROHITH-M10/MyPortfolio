@@ -3,6 +3,7 @@
 
 ## UI Components
 - Ant Design
+- AOS
 - Custom UI Components
 
 ## Form Handling
