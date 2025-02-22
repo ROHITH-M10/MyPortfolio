@@ -2,7 +2,6 @@ import '../styles/home.css';
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import React from 'react';
 import rohith from '../assets/images/rohith.jpg';
-import Resume from "resume/Rohith_M_Resume.pdf";
 
 function Home() {
   return (
@@ -47,7 +46,9 @@ function Home() {
           </AnchorLink>
         </div>
         <div className="resume" data-aos="zoom-in" data-aos-delay="1300">
-          <a href={Resume} target="_blank" rel="noreferrer">
+          <a 
+          href= "/resume/Rohith_M_Resume.pdf"
+          target="_blank" rel="noreferrer">
             Resume 📄
           </a>
         </div>
