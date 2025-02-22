@@ -2,7 +2,7 @@ import '../styles/home.css';
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import React from 'react';
 import rohith from '../assets/images/rohith.jpg';
-import Resume from "../assets/resume/Rohith_M_Resume.pdf";
+import Resume from "resume/Rohith_M_Resume.pdf";
 
 function Home() {
   return (
