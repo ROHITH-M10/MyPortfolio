@@ -47,7 +47,7 @@ function Home() {
         </div>
         <div className="resume" data-aos="zoom-in" data-aos-delay="1300">
           <a 
-          href="/MyPortfolio/resume/Rohith_M_Resume.pdf"
+          href="MyPortfolio/resume/Rohith_M_Resume.pdf"
           target="_blank" rel="noreferrer">
             Resume 📄
           </a>
