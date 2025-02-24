@@ -6,9 +6,13 @@ import Journey from './components/journey';
 import Projects from './components/projects';
 import Contact from './components/contact';
 import Footer from './components/footer';
+
+
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
+import { CursorifyProvider } from '@cursorify/react'
+
 
 
 function App() {
@@ -27,6 +31,7 @@ function App() {
 
   return (
     <div className="App">
+      <CursorifyProvider>
       <Navbar/>
       <Home/>
       <About/>
@@ -34,6 +39,7 @@ function App() {
       <Projects />
       <Contact />
       <Footer />
+      </CursorifyProvider>
     </div>
   );
 }
