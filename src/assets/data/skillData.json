@@ -154,6 +154,12 @@
         "name":"Postman",
         "image":"skills/postman.svg"
     }
+    ,
+    {
+        "id":27,
+        "name":"PWA",
+        "image":"skills/pwa.svg"
+    }
     
 ]
 
