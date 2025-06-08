@@ -2,7 +2,7 @@
     {
         "id": 1,
         "image": "projects/1.png",
-        "title": "E-commerce Competitor Strategy Dashboard",
+        "title": "Real-Time Competitor Strategy Tracker for E-commerce",
         "description": "Developed a real-time e-commerce competitor analysis platform using Python and Streamlit, enabling businesses to track pricing strategies, discounts, and customer sentiment. Integrated web scraping for data collection, ARIMA for discount forecasting, and Hugging Face transformers for sentiment analysis. Leveraged LLaMA to generate strategic recommendations and implemented Slack API for real-time updates and collaboration.",
         "link1": {"linkName":"GitHub","link": "https://github.com/ROHITH-M10/e-commerce-competitor-analysis"},
         "link2": {"linkName":"Link","link": "https://e-commerce-competitor-analysis-app.streamlit.app/"},

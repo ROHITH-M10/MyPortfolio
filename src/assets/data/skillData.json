@@ -160,6 +160,12 @@
         "name":"PWA",
         "image":"skills/pwa.svg"
     }
+    ,
+    {
+        "id":28,
+        "name":"Ollama",
+        "image":"skills/ollama.svg"
+    }
     
 ]
 
