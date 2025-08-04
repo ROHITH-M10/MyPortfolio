@@ -23,6 +23,13 @@ function Projects() {
           </div>
         ))}
       </Carousel>
+
+      
+      <div className="view-more-projects">
+          <a href="https://github.com/ROHITH-M10" target="_blank" rel="noreferrer">
+            View More Projects on GitHub <i className="fa">&#xf09b;</i>
+          </a>
+        </div>
     </div>
   );
 };

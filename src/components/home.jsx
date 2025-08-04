@@ -25,16 +25,14 @@ function Home() {
 
       {/* Description with Fade and Delay */}
       <div className="home-description" data-aos="fade-up" data-aos-delay="300">
-        A passionate programmer and a web developer.  
-        I love to explore new technologies and develop  
-        software solutions.
+        I Build Software, Train AI Models and Craft Creative Digital Designs.
       </div>
 
       {/* Interests with Staggered Animations */}
       <div className="interest">
         <div data-aos="fade-right" data-aos-delay="100">💻 Programmer</div>
         <div data-aos="fade-left" data-aos-delay="300">🌐 Web Developer</div>
-        <div data-aos="fade-right" data-aos-delay="500">🤖 AI/ML Enthusiast</div>
+        <div data-aos="fade-right" data-aos-delay="500">🤖 AI/ML Developer</div>
         <div data-aos="fade-left" data-aos-delay="700">🎨 Designer</div>
       </div>
 

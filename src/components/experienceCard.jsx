@@ -19,9 +19,9 @@ function ExperienceCard(props) {
                 <div className="role">
                   {props.role}
 
-                  <div className="view">
+                  {/* <div className="view">
                     <AnchorLink href="#projects"><i className="fa view-icon">&#xf08e;</i></AnchorLink>
-                  </div>
+                  </div> */}
                 </div>
                 {/* <div className="description">
                   {props.description}

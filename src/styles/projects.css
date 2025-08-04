@@ -25,6 +25,26 @@
     box-shadow: 0px 0px 1000px 1px rgba(0, 255, 255, 0.105);
 }
 
+.view-more-projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.view-more-projects a{
+    font-size: 0.8rem;
+    color: var(--fourth-color);
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 0px;
+  
+    background-color: var(--main-color);
+    border: solid 1px var(--third-color);
+    border-left: solid 0px var(--third-color);
+    border-right: solid 0px var(--third-color);
+    transition: all 0.3s ease-in-out;
+}
 
 
 @media screen and (max-width: 768px){

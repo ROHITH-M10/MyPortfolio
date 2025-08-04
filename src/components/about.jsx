@@ -9,16 +9,21 @@ function About() {
                 About Me
             </div>
             <div className="about-info" data-aos="fade-right">
-            Welcome to my digital space!
-            <br />
-            I'm Rohith, a passionate 4th-year Computer Science Engineering student at Amrita School of Computing, Coimbatore. 
-            I love working with technology and have a keen interest in Web Development,AI, Machine Learning, and Designing. 
-            I am always eager to learn new things and solve problems.
-            <br />
-            In my free time, I enjoy photography, designing, philately, and playing football.
+                <div style={{ fontFamily: 'monospace', fontSize: '1.5rem', fontWeight: 'bold', color: '#00FFAB' }}>
+                    {'>'} rm * — but I create, not delete.
+                </div>
+                <br />
+                I'm Rohith — a Computer Science graduate from Amrita School of Computing, Coimbatore, 
+                passionate about building software, crafting intelligent AI models and creating digital designs.
+                <br /><br />
+                My expertise spans Web Development, AI/ML solutions and Digital Designing — 
+                blending code and creativity to bring ideas to life. I'm a curious learner, always exploring new technologies and innovative ways to solve real-world problems.
+                <br /><br />
+                Beyond the keyboard, you'll find me capturing moments through photography, designing creative artworks, 
+                adding stamps to my philately collection or enjoying a game of football.
 
             <br /><br />
-            A snapshot of the technologies and skills I’ve worked with
+            A snapshot of the technologies and skills I've worked with
             </div>
 
             <div className="my-skills" >
