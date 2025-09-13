@@ -1,7 +1,7 @@
 import '../styles/home.css';
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import React from 'react';
-import rohith from '../assets/images/rohith.jpg';
+import rohith from '../assets/images/rohith3.jpg';
 
 function Home() {
   return (
@@ -37,13 +37,13 @@ function Home() {
       </div>
 
       {/* Links with Bounce Effect */}
-      <div className="links" data-aos="fade-up" data-aos-delay="900">
+      <div className="links" data-aos="fade-up">
         <div className="contact">
-          <AnchorLink href="#contact" data-aos="zoom-in" data-aos-delay="1100">
+          <AnchorLink href="#contact">
             Contact
           </AnchorLink>
         </div>
-        <div className="resume" data-aos="zoom-in" data-aos-delay="1300">
+        <div className="resume">
           <a 
           href="resume/Rohith_M_Resume.pdf"
           target="_blank" rel="noreferrer">

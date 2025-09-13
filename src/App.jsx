@@ -20,10 +20,10 @@ function App() {
     AOS.init({
       duration: 1200,        // Animations run for 1200ms
       easing: 'ease-in-out', // Smooth easing
-      offset: 100,           // Trigger when element is 100px from viewport
-      once: false,           // Animation will run every time you scroll
+      offset: 0,           // Trigger when element is 100px from viewport
+      once: true,           // Animation will run every time you scroll
       mirror: true,          // Animate when scrolling back
-      delay: 300,            // 300ms delay for all animations
+      delay: 10,            // 300ms delay for all animations
       anchorPlacement: 'center-bottom', // Anchor element at the center-bottom
     });
   }, []);

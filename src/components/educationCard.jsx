@@ -5,7 +5,7 @@ import React from 'react';
 
 function EducationCard(props) {
   return (
-    <div className="education-card-container" data-aos="fade-down">
+    <div className="education-card-container" >
             <div className="education-card">
             <div className="degree">
                 <div className="institute">

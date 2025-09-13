@@ -10,7 +10,7 @@ function About() {
             </div>
             <div className="about-info" data-aos="fade-right">
                 <div style={{ fontFamily: 'monospace', fontSize: '1.5rem', fontWeight: 'bold', color: '#00FFAB' }}>
-                    {'>'} rm * — but I create, not delete.
+                    {'$'} rm * — but I create, not delete.
                 </div>
                 <br />
                 I'm Rohith — a Computer Science graduate from Amrita School of Computing, Coimbatore, 

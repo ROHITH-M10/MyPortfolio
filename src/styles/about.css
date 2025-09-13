@@ -68,8 +68,11 @@
 
 @media screen and (max-width: 768px){
     .my-skills{
-        width: 90%;
+        max-width: 90%;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); /* Responsive columns */
         gap: 10px;
+        font-size: 0.8rem;
     }
 
     .about-info{

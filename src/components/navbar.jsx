@@ -36,7 +36,7 @@ function Navbar() {
 
     <nav className="navbar-mobile">
         <div className="logo">
-            <img src={Logo} alt="logo" />
+            <AnchorLink href="#home"><img src={Logo} alt="logo" /></AnchorLink>
             <i class="fa hamburger" onClick={handleNavbar} >&#xf0c9;</i>
         </div>
         <div className={`nav-links ${DropDownStyle}`}>
